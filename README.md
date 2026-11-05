@@ -28,6 +28,12 @@ This project demonstrates DOM manipulation, event handling, regular expressions,
 - Responsive design
 - Spotify-inspired interface
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="./Screenshot 2026-11-05 183235.png" alt="Markdown to HTML converter" width="800">
+</p>
+
 ### Supported Markdown Syntax
 
 #### Headings
